@@ -1,0 +1,7 @@
+transformers==4.33.3
+gradio==3.46.0
+timm==0.9.7
+--extra-index-url https://download.pytorch.org/whl/cpu/
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+opencv-python-headless==4.8.0.76
